@@ -1,136 +1,294 @@
-.row {
-    width: 100%;
-    margin: 0 auto;
-    float: left;
-    clear: both;
-  }
+.input-group {
+      width: 50%;
+      margin-left: 50px;
+      
+}
 
+.search-barra {
+      height: 130px;
+      margin-top: 80px;
+      margin-right: 180px;
+      margin-left: 400px;
+}
 
-.home{
-  background-color:orange;
-  text-align: left;
-  width:60%;
-  color: black;
-  margin-top:10px;
+.imagem-barra {
+      background-image: url('../images/serra-estrela.jpg');
+      height: 130px;
+}
 
-  }
-
-.search{
-    background-color:orange;
-    text-align: center;
-    color: black;
-    width:40%;
-    margin-top:10px;
-
-  }
-
-  .dave{
-    background-color:blue;
-    text-align: center;
-    padding:5%;
-    margin:0 auto;
-    color: white;
-    position:relative;
-    margin-top: 5px;
-  }
-
-  .message{
-    background-color:black;
-    text-align: center;
-    padding:3%;
-    margin:0 auto;
-    color: white;
-    position:relative;
-    margin-top: 5px;
-
-
-  }
-
-  .sponsor{
-    background-color:green;
-    text-align: center;
-    padding:5%;
-    margin:0 auto;
-    color: white;
-    position:relative;
-    margin-top: 5px;
-
-  }
-  .about{
-    background-color:blue;
-    text-align: center;
-    padding:5%;
-    margin:0 auto;
-    color: white;
-    position:relative;
-
-
-
-  }
-
-  .dave-gamache{
-      background-color:black;
+.rebse {
       text-align: center;
-      padding:5%;
-      margin:0 auto;
       color: white;
-      position:relative;
+}
 
+.area {
+      text-align: right;
+      color: white;
+}
 
+.barra-cabecalho {}
 
+.slideshow {
+      width: 100%;
+}
 
+.negocio {
+      background-color: palevioletred;
+      height: 130px;
+      text-align: center;
+      color: white;
+}
 
-    }
+.bolsa {
+      background-color: blue;
+      height: 130px;
+      text-align: center;
+      color: white;
+}
 
-    .likes{
-        background-color:green;
-        text-align: center;
-        padding:5%;
-        margin:0 auto;
-        color: white;
-        position:relative;
+.letra {
+      font-weight: bolder;
+}
 
+.agenda {
+      width: 100%;
+}
 
+.noticia-1 {
+      height: 300px;
+      margin-top: 40px;
+}
 
-      }
+.imagem2 {
+      height: 190px;
+      color: white;
+}
 
-       .photos{
-          background-color:blue;
-          text-align: center;
-          padding:5%;
-          margin:0 auto;
-          color: white;
-          position:relative;
+.maio {
+      background-color: palevioletred;
+      height: 190px;
+      color: white;
+}
 
+.noticia2 {
+      height: 300px;
+      margin-top: 40px;
+}
 
+.junho {
+      background-color: palevioletred;
+      height: 190px;
+      color: white;
+}
 
-        }
-        .jacob{
-            background-color:black;
-            text-align: center;
-            padding:5%;
-            margin:0 auto;
-            color: white;
-            position:relative;
+.imagem4 {
+      height: 190px;
+      color: white;
+}
+
+.noticias {
+      background-color: grey;
+      height: 800px;
+      background-image: url('C:/Users/Ondina/Desktop/REBSE/images/noticias-bg.jpg')
+}
+
+.pesquisa {
+      height: 200px;
+      background-image: url('C:/Users/Ondina/Desktop/REBSE/images/pesquisa-bg.jpg');
+  
+    
 
 }
 
 
-        .bootstrap{
-            background-color:green;
-            text-align: center;
-            padding:5%;
-            margin:0 auto;
-            color: white;
-            position:relative;
+.documentos {
+      height: 500px;
+      background-image: url('C:/Users/Ondina/Desktop/REBSE/milimetricas.jpg');
 }
 
-.mark-otto{
-    background-color:red;
-    text-align: center;
-    padding:16%;
-    margin:0 auto;
-    color: white;
-    position:relative;
-
+.parcerias {
+      background-image: url('../images/serra-estrela.jpg');
+      height: 180px;
 }
+
+.cimbse {
+      height: 190px;
+      margin-top: 20px;
+}
+
+.mapas {
+      height: 200px;
+      background-size: cover;
+      width: 100%;
+}
+
+.informacao {
+      text-align: center;
+      height: 150px;
+      margin-top: 65px;
+}
+
+.empresa {
+      background-color: white;
+      height: 500px;
+      margin-top: 100px;
+      margin-left: 90px;
+}
+
+.turismo {
+      background-color: white;
+      height: 500px;
+      margin-top: 100px;
+      margin-left: 50px;
+}
+
+.exportacao {
+      background-color: white;
+      height: 500px;
+      margin-top: 100px;
+      margin-left: 50px;
+}
+
+.doc1 {
+      background-color: white;
+      height: 200px;
+      margin-top: 100px;
+      margin-left: 120px;
+}
+
+.doc2 {
+      background-color: white;
+      height: 200px;
+      margin-top: 100px;
+      margin-left: 20px;
+}
+
+.doc3 {
+      background-color: white;
+      height: 200px;
+      margin-top: 100px;
+      margin-left: 20px;
+}
+
+.telefone {
+      height: 90px;
+      margin-top: 30px;
+      color: black;
+      font-size: 20px;
+      font-weight: bolder;
+      text-align: center;
+}
+
+.nome {
+      height: 90px;
+      margin-top: 30px;
+      color: black;
+}
+
+.sugestao {
+      height: 90px;
+      margin-top: 30px;
+      color: black;
+}
+
+.texto {
+      font-size: 20px;
+      font-weight: bolder;
+}
+
+.botao-ler {
+      text-align: center;
+      margin-top: 10px;
+}
+
+.button {
+      text-align: center;
+      margin-top: -25px;
+      color: transparent;
+}
+
+.imagem-mapa {
+      background-size: cover;
+      width: 100%;
+}
+
+.img-responsive {
+      background-size: cover;
+      vertical-align: middle;
+}
+
+.logotipos {
+      width: 100%;
+      margin-top: 50px;
+}
+
+.centro2020 {
+      width: 100%;
+}
+
+.texto-cores {
+      color: deepskyblue;
+      font-weight: bolder;
+      font-size: 15px;
+}
+
+.imagem {
+      width: 100%;
+}
+
+.imagens {
+      width: 100%;
+      margin-top: 20px;
+}
+
+.teclados {
+      height: 190px;
+      width: 100%;
+}
+
+.carousel-inner {
+      height: 100%;
+}
+
+.item-active {
+      width: 100%;
+}
+
+.seta {
+      border-color: white;
+      margin-top: 10px;
+}
+
+.mao-metal {
+      width: 100%;
+      height: 190px;
+}
+
+.cadernos {
+      width: 100%;
+      height: 190px;
+}
+
+.agendas {
+      margin-top: 30px;
+      margin-left: 50px;
+}
+
+.items {
+      margin-right: 100px;
+}
+
+.item1 {
+      margin-left: 100px;
+      margin-top: 30px;
+}
+
+.pioneer {
+      width: 100%;
+      margin-top: -15px;
+}
+
+.phone {
+      width: 50%;
+}
+
